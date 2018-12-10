@@ -14,7 +14,7 @@ The repository includes
 **1. Perceptron-based image classifier training .py file** this is the code for training the data.   
 **2. Perceptron-based image classifier testing .py file** this is the code for applying the model we got from training in testing data and get accuracy for different η.  
 **3. Perceptron-based image classifier valid .py file**this is the code for applynig the model in validation data then get for each classfier η with the best performance and after that we apply the new model in testing data and get accuracy.  
-**4. Conusion_matrices_images zipped file** and it inludes 10 images that represents 10 confusion matrices. the first 9 matrices named “Confusion-x.jpg”, where x is absolute value of the power of 10 of η and the last matrix named "Confusion_b.jpg" and it represents confusion matrix with best accuracy after applying the model in validation data, get best eta per classifier then apply best model on testing data.  
+**4. Confusion_matrices_images zipped file** and it inludes 10 images that represents 10 confusion matrices. the first 9 matrices named “Confusion-x.jpg”, where x is absolute value of the power of 10 of η and the last matrix named "Confusion_b.jpg" and it represents confusion matrix with best accuracy after applying the model in validation data, get best eta per classifier then apply best model on testing data.  
 **5. Dataset zipped file** and it inludes training, testing and validation datasets.   
 
 **Please note that this project can be simpler If we made some dimensionality reduction but the main goal of the project is to apply perceptron concept on high dimensional data.**
